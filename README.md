@@ -5,7 +5,7 @@ A simple and elegant web app that allows you to create, edit, and delete tasks, 
 # technologies
 React,CSS
 # Live preview
-https://omarmosleh.github.io/my-app/ 
+https://omarmosleh.github.io/my-react-task-tracker/ 
 # Design
 
 ![Design preview for the laptop](./screenshots/Screenshot%20One.jpeg)
