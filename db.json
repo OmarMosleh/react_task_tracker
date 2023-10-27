@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "study react",
+      "day": "saturday",
+      "reminder": true
+    },
+    {
+      "name": "play football",
+      "day": "friday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "name": "study Node.js",
+      "day": "thursday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "name": "new task",
+      "day": "Monday ",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
